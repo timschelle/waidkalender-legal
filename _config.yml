@@ -1,2 +1,7 @@
 title: Waidkalender – Datenschutz
 theme: minima
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
